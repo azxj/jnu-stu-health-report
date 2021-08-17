@@ -14,6 +14,7 @@ func main() {
 		return
 	}
 
+	*password = Encrypt(*password)
 	jnuID := Login(*username, *password)
 	firstID := List(jnuID)
 	mainTable, secondTable := Review(firstID, jnuID)
