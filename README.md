@@ -17,11 +17,11 @@
 
 ## <a name="links"></a> 下载链接
 
-- Windows x86：[report_Windows_i386.exe](https://github.com/azxj/jnu-stu-health-report/releases/download/v1.0/report_Windows_i386.exe)
-- Windows x64：[report_Windows_x86-64.exe](https://github.com/azxj/jnu-stu-health-report/releases/download/v1.0/report_Windows_x86-64.exe)
-- MacOS x64：[report_Darwin_x86-64](https://github.com/azxj/jnu-stu-health-report/releases/download/v1.0/report_Darwin_x86-64)
-- Linux x86：[report_Linux_i386](https://github.com/azxj/jnu-stu-health-report/releases/download/v1.0/report_Linux_i386)
-- Linux x64：[report_Linux_x86-64](https://github.com/azxj/jnu-stu-health-report/releases/download/v1.0/report_Linux_x86-64)
+- Windows x86：[report_Windows_i386.exe](https://github.com/azxj/jnu-stu-health-report/releases/download/v1.1/report_Windows_i386.exe)
+- Windows x64：[report_Windows_x86-64.exe](https://github.com/azxj/jnu-stu-health-report/releases/download/v1.1/report_Windows_x86-64.exe)
+- MacOS x64：[report_Darwin_x86-64](https://github.com/azxj/jnu-stu-health-report/releases/download/v1.1/report_Darwin_x86-64)
+- Linux x86：[report_Linux_i386](https://github.com/azxj/jnu-stu-health-report/releases/download/v1.1/report_Linux_i386)
+- Linux x64：[report_Linux_x86-64](https://github.com/azxj/jnu-stu-health-report/releases/download/v1.1/report_Linux_x86-64)
 
 ## <a name="usages"></a> 用法
 
