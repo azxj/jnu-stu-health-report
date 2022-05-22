@@ -1,8 +1,8 @@
 # 暨南大学学生健康打卡脚本
 
-![GitHub repo size](https://img.shields.io/github/repo-size/azxj/jnu-stu-health-report)
-![GitHub last commit](https://img.shields.io/github/last-commit/azxj/jnu-stu-health-report)
-![GitHub](https://img.shields.io/github/license/azxj/jnu-stu-health-report)
+![GitHub repo size](https://img.shields.io/github/repo-size/xiaojianzhong/jnu-stu-health-report)
+![GitHub last commit](https://img.shields.io/github/last-commit/xiaojianzhong/jnu-stu-health-report)
+![GitHub](https://img.shields.io/github/license/xiaojianzhong/jnu-stu-health-report)
 
 ## 目录
 
@@ -17,11 +17,11 @@
 
 ## <a name="links"></a> 下载链接
 
-- Windows x86：[report_Windows_i386.exe](https://github.com/azxj/jnu-stu-health-report/releases/download/v1.1/report_Windows_i386.exe)
-- Windows x64：[report_Windows_x86-64.exe](https://github.com/azxj/jnu-stu-health-report/releases/download/v1.1/report_Windows_x86-64.exe)
-- MacOS x64：[report_Darwin_x86-64](https://github.com/azxj/jnu-stu-health-report/releases/download/v1.1/report_Darwin_x86-64)
-- Linux x86：[report_Linux_i386](https://github.com/azxj/jnu-stu-health-report/releases/download/v1.1/report_Linux_i386)
-- Linux x64：[report_Linux_x86-64](https://github.com/azxj/jnu-stu-health-report/releases/download/v1.1/report_Linux_x86-64)
+- Windows x86：[report_Windows_i386.exe](https://github.com/xiaojianzhong/jnu-stu-health-report/releases/download/v1.1/report_Windows_i386.exe)
+- Windows x64：[report_Windows_x86-64.exe](https://github.com/xiaojianzhong/jnu-stu-health-report/releases/download/v1.1/report_Windows_x86-64.exe)
+- MacOS x64：[report_Darwin_x86-64](https://github.com/xiaojianzhong/jnu-stu-health-report/releases/download/v1.1/report_Darwin_x86-64)
+- Linux x86：[report_Linux_i386](https://github.com/xiaojianzhong/jnu-stu-health-report/releases/download/v1.1/report_Linux_i386)
+- Linux x64：[report_Linux_x86-64](https://github.com/xiaojianzhong/jnu-stu-health-report/releases/download/v1.1/report_Linux_x86-64)
 
 ## <a name="usages"></a> 用法
 
@@ -42,7 +42,7 @@ $ ./report_Darwin_x86-64 --username 学号 --password '密码'
 
 当输出“插入问卷数据成功”时，表示本次打卡成功；当输出“重复提交问卷”时，表示今日已经打过卡。
 
-感谢 [@Steve0x2a](https://github.com/Steve0x2a) 分享的[密码加密方式](https://github.com/azxj/jnu-stu-health-report/issues/1)。
+感谢 [@Steve0x2a](https://github.com/Steve0x2a) 分享的[密码加密方式](https://github.com/xiaojianzhong/jnu-stu-health-report/issues/1)。
 
 ## <a name="build"></a> 交叉编译
 

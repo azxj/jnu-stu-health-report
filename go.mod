@@ -1,3 +1,3 @@
-module github.com/azxj/jnu-stu-health-report
+module github.com/xiaojianzhong/jnu-stu-health-report
 
 go 1.15
